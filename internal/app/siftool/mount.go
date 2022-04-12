@@ -8,7 +8,7 @@ package siftool
 import (
 	"context"
 
-	"github.com/sylabs/sif/v2/internal/pkg/exp"
+	"github.com/sylabs/sif/v2/pkg/exp"
 )
 
 // Mount mounts the primary system partition of the SIF file at path into mountPath.
